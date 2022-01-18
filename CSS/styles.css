@@ -1,0 +1,105 @@
+
+body{margin: 0px;
+text-align: center;
+font-family: 'Inter', sans-serif;}
+
+h1{
+    font-family: 'Licorice', cursive;
+    font-size: 75px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+h2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    margin-bottom: 0%;
+    margin-top: 1%;
+    color: #141E61;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 900 ;
+}
+
+.about{
+    height: 100px;
+    width: 100px;
+}
+
+.ux{height: 100px;
+    width: 100px;
+}
+
+.bg{
+    height: 700px;
+    width: 1255px;
+}
+
+.first{
+    
+    border-top: 5px dotted #FFBCBC ;
+    
+    margin-left: 605px;
+    width: 100px;
+    
+}
+.topcontainer{
+
+   padding-top: 100px;
+    background: #ACDBE4;
+    
+    margin: -2rem -2rem -2rem -2rem;
+    
+}
+
+.middlecontainer{
+    background-color: #B5EAEA;
+    margin: -2rem -2rem -2rem -2rem ;
+    padding-top: 6.25rem;
+    padding-bottom: 6.25rem;
+}
+
+td{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.dev{
+    text-align: left;
+}
+
+.binge{
+    width: 300px;
+    height: 300px;
+}
+.interest{
+    text-align: right;
+}
+
+.button{
+    background-color: turquoise;
+    border: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+.bottomcontainer{
+  background-color: pink;
+  margin-top: 30px;
+  padding-bottom: 100px;
+  
+}
+
+.contact{
+    color: white;
+    display: inline-block;
+    margin-right: 100px ;
+    margin-left: 100px;
+}
+
+.contact:hover{
+    color: black;
+}
